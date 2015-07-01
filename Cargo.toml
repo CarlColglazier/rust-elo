@@ -1,0 +1,4 @@
+[package]
+name = "elo"
+version = "0.1.0"
+authors = ["Carl Colglazier <carl@carlcolglazier.com>"]
